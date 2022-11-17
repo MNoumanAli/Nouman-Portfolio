@@ -4,6 +4,7 @@ import AboutPage from './Pages/AboutPage'
 import ContactPage from './Pages/ContactPage'
 import MainPage from './Pages/MainPage'
 import ProjectPage from './Pages/ProjectPage'
+
 function App() {
   return (
     <div>
